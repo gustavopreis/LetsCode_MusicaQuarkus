@@ -1,0 +1,8 @@
+package br.com.cgkrl.models;
+
+import javax.ws.rs.ApplicationPath;
+
+@ApplicationPath("/api/")
+public class APIDefinition {
+    
+}
